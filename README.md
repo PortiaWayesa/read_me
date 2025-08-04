@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Thandamoiity1</h1>
+<p align="center">
+  🚀 Welcome to my GitHub profile! <br>
+  💡 Passionate about technology, innovation, and continuous learning.
+</p>
 
-<!--
-**Thandamoiity1/Thandamoiity1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I’m currently working on an exciting AI-based study assistant app using Flutter for my school project.
+- 🌱 Learning new things every day — currently diving into ethical hacking.
+- 💬 Ask me about **web development**, **App development** or anything tech-related.
+- 📫 Reach me at: `portiawayesa@gmail.com`
+- 🌍 Fun fact: I love blending creativity with logic to build beautiful and functional software.
+
+---
+
+### 🛠️ Languages & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thandamoiity1&show_icons=true&theme=tokyonight" alt="Thandamoiity1 GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thandamoiity1&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+
+### 📌 Featured Project: AI-Based Study Assistant 📚🤖
+
+A smart study companion built with **Flutter** to help students:
+
+- 🗓 Organize study schedules  
+- 🤖 Chat with an AI tutor for academic support  
+- 📝 Take quizzes with instant feedback  
+- 📈 Track progress with personalized insights  
+
+> 🔧 **Tech Stack:** Flutter, Dart, Firebase, OpenAI API  
+
+_Repository coming soon... stay tuned for updates!_
+
+---
+
+### 🌐 Let's Connect
+
+<p>
+  <a href="https://github.com/Thandamoiity1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+ <a href="https://www.linkedin.com/in/portia-wayesa-4711a4255" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+_Thanks for visiting! Have a great day 😊_
+
+
+ 
