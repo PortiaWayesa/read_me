@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Thandamoiity1</h1>
+<h1 align="center">Hi there 👋, I'm Portia Wayesa</h1>
 <p align="center">
   🚀 Welcome to my GitHub profile! <br>
   💡 Passionate about technology, innovation, and continuous learning.
@@ -38,16 +38,19 @@
 ---
 
 
-### 📌 Featured Project: AI-Based Study Assistant 📚🤖
+### 📌 Featured Project: Medication Tracker 💊📱
 
-A smart study companion built with **Flutter** to help students:
+A simple and intuitive app to help users manage their medications and stay healthy:
 
-- 🗓 Organize study schedules  
-- 🤖 Chat with an AI tutor for academic support  
-- 📝 Take quizzes with instant feedback  
-- 📈 Track progress with personalized insights  
+⏰ Set reminders for each medication
 
-> 🔧 **Tech Stack:** Flutter, Dart, Firebase, OpenAI API  
+📝 Track daily intake and adherence
+
+📊 View statistics for medication usage over time
+
+🔔 Receive notifications to never miss a dose
+
+Tech Stack: Flutter, Dart, Firebase
 
 _Repository coming soon... stay tuned for updates!_
 
