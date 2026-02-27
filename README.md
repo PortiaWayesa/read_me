@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I’m currently working on an exciting AI-based study assistant app using Flutter for my school project.
+- 💼 I’m currently working on an exciting Medication Tracking App app using Flutter for my school project.
 - 🌱 Learning new things every day — currently diving into ethical hacking.
 - 💬 Ask me about **web development**, **App development** or anything tech-related.
 - 📫 Reach me at: `portiawayesa@gmail.com`
@@ -28,11 +28,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thandamoiity1&show_icons=true&theme=tokyonight" alt="Thandamoiity1 GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PortiaWayesa&show_icons=true&theme=tokyonight" alt="Thandamoiity1 GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thandamoiity1&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PortiaWayesa&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ _Repository coming soon... stay tuned for updates!_
 ### 🌐 Let's Connect
 
 <p>
-  <a href="https://github.com/Thandamoiity1" target="_blank">
+  <a href="https://github.com/PortiaWayesa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/>
   </a>
  <a href="https://www.linkedin.com/in/portia-wayesa-4711a4255" target="_blank">
